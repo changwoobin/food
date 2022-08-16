@@ -1,0 +1,9 @@
+.mainbox {
+    text-align: center;
+}
+.checking {
+    margin-left: 30%;
+    text-align: left;
+    width: 200px;
+    display: none;
+}
